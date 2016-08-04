@@ -1,0 +1,40 @@
+_repo: A-Distinguished-Provincial-at-Paris_1559
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Marriage, Ellen
+    gutenberg_agent_id: '701'
+    url: http://www.gutenberg.org/2009/agents/701
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description:
+- 'See also: #13159.'
+- Lost Illusions Part II.
+gutenberg_issued: '2004-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: A Distinguished Provincial at Paris
+url: http://www.gutenberg.org/ebooks/1559
