@@ -1,10 +1,13 @@
 _repo: A-Distinguished-Provincial-at-Paris_1559
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Marriage, Ellen
     gutenberg_agent_id: '701'
     url: http://www.gutenberg.org/2009/agents/701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -23,6 +26,8 @@ creator:
 description:
 - 'See also: #13159.'
 - Lost Illusions Part II.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1559#A-Distinguished-Provincial-at-Paris
 gutenberg_issued: '2004-08-11'
 gutenberg_type: Text
 identifiers:
